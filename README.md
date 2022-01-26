@@ -1,7 +1,7 @@
 ## Redux Fun
 For this coding challenge, you'll be building an app using React and Redux that displays a list of users gathered from an api and a separate component displaying details from these users. 
 
-The api endpoint for this project is hosted at `https://blooming-savannah-20593.herokuapp.com/api/users`. It responds with JSON and is unauthenticated.
+The api endpoint for this project is hosted at `https://immense-bastion-95145.herokuapp.com/api/users`. It responds with JSON and is unauthenticated.
 
 Make sure to complete the following features:
 
