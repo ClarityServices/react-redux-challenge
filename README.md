@@ -1,5 +1,5 @@
 ## Redux Fun
-For this coding challenge, you'll be building an app using React and Redux that displays a list of users gathered from an api and a separate component displaying details from these users. We'd ask that you not use Clarity in the name to keep this more anonymous.
+For this coding challenge, you'll be building an app using React and Redux that displays a list of users gathered from an api and a separate component displaying details from these users. We'd ask that you not use Clarity in the name to keep this more anonymous, push the finished project to your github repo and send the link to the email instructed.
 
 The api endpoint for this project is hosted at `https://immense-bastion-95145.herokuapp.com/api/users`. It responds with JSON and is unauthenticated.
 
